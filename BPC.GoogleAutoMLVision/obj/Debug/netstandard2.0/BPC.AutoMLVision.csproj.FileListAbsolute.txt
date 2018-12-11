@@ -1,0 +1,9 @@
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\bin\Debug\netstandard2.0\BPC.AutoMLVision.deps.json
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\bin\Debug\netstandard2.0\BPC.AutoMLVision.dll
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.csprojAssemblyReference.cache
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.csproj.CoreCompileInputs.cache
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.AssemblyInfoInputs.cache
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.AssemblyInfo.cs
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\bin\Debug\netstandard2.0\BPC.AutoMLVision.pdb
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.dll
+C:\Projetos\BPC.AutoMLVision\BPC.AutoMLVision\obj\Debug\netstandard2.0\BPC.AutoMLVision.pdb

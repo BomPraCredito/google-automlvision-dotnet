@@ -1,7 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Bom Pra Crédito</Authors>
+    <Description>Google AutoML Vision Client for .NET</Description>
+    <Copyright>Copyright ©2018 Bom Pra Crédito</Copyright>
+    <PackageLicenseUrl>https://github.com/BomPraCredito/google-automlvision-dotnet/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/BomPraCredito/google-automlvision-dotnet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BomPraCredito/google-automlvision-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>google cloud automl vision</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

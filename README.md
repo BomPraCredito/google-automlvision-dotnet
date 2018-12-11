@@ -11,10 +11,11 @@ model prediction endpoint.
 
 Here's a quick snippet:
 ```csharp
+PredictResults res;
 using (var imageStream = new FileStream("<<IMAGE_PATH>>", FileMode.Open)
 {
   var client = new GoogleAutoMLVisionClient("<<JSON_CREDENTIALS_PATH>>");
-  var res = await client.Predict("<<MODEL_ENDPOINT>>", imageStream)
+  res = await client.Predict("<<MODEL_ENDPOINT>>", imageStream)
 }
 Console.WriteLine($"Your image is a {res.payload.First().displayName}");
 ```

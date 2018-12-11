@@ -1,9 +1,0 @@
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\bin\Debug\netstandard2.0\BPC.GoogleAutoMLVision.deps.json
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\bin\Debug\netstandard2.0\BPC.GoogleAutoMLVision.dll
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\bin\Debug\netstandard2.0\BPC.GoogleAutoMLVision.pdb
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.csprojAssemblyReference.cache
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.csproj.CoreCompileInputs.cache
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.AssemblyInfoInputs.cache
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.AssemblyInfo.cs
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.dll
-C:\Projetos\BPC.AutoMLVision\BPC.GoogleAutoMLVision\obj\Debug\netstandard2.0\BPC.GoogleAutoMLVision.pdb

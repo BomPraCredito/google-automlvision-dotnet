@@ -1,9 +1,25 @@
 ﻿# Google AutoML Vision C# Client
+[![](https://img.shields.io/nuget/v/BPC.GoogleAutoMLVision.svg)](https://www.nuget.org/packages/BPC.GoogleAutoMLVision)
+
 A .NET/C# client for the [Google AutoML Vision](https://cloud.google.com/automl/) API.
 Google still hasn't provided us with a .NET client for this great service. 
 Nevertheless, once you have a trained model, the "PREDICT" tab gives you a quick and dirty curl-based 
 REST approach. This projects builds upon that.
 
+
+
+## Installation
+
+In order to install the package, you can either clone this repo or, 
+more easily, use nuget:
+
+```
+Install-Package BPC.GoogleAutoMLVision -Version 1.0.0
+```
+or
+```
+dotnet add package BPC.GoogleAutoMLVision --version 1.0.0
+```
 ## Usage
 
 Once you have uploaded a suitable set of images and trained your AutoML Vision model, you'll end up with a 
@@ -11,6 +27,10 @@ model prediction endpoint.
 
 Here's a quick snippet:
 ```csharp
+using BPC.GoogleAutoMLVision;
+
+//snip
+
 PredictResults res;
 using (var imageStream = new FileStream("<<IMAGE_PATH>>", FileMode.Open)
 {
